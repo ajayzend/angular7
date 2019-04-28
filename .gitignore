@@ -44,10 +44,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-
-# angular7
-
-npm install -g @angular/cli@latest
-
-ng new my-app
